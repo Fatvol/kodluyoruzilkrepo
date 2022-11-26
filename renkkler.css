@@ -1,0 +1,225 @@
+.zz{
+    background-color: rgb(159, 228, 228);
+}
+.BB{
+    background-color: rgb(228, 192, 208);
+    color: rgb(25, 150, 63);
+    margin: auto;
+    font-size: 50px;
+    text-shadow: 2px 1px 1px;
+    text-align: center;
+    background-size: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration:dotted;
+    word-spacing: 10px;
+    letter-spacing: 3px;
+}
+.DD{
+    margin: auto;
+    background-color: rgb(211, 189, 231);
+}
+.R1{
+   height: 300px;
+   width: 100%;
+   
+}
+.nav{
+    font-size:small;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav1{
+    color: rgb(201, 188, 6);
+}
+.nav2{
+    color: rgb(18, 32, 231);
+}
+.nav3{
+    color: rgb(226, 13, 13);
+
+}
+.nav ul{
+    display:inline-flex;
+    list-style: disc;
+    margin-bottom: auto;
+}
+.nav ul li{
+    width: 100px;
+    margin: 10px;
+    padding: 10px;
+
+}
+.nav ul li a{
+    text-decoration: solid;
+}
+.active, .nav ul li:hover{
+    background: rgb(239, 236, 245);
+    border-radius: 20px;
+}
+.B1{
+    background-color: blanchedalmond;
+    background-size: auto;
+    color: rgb(12, 4, 85);
+    text-align: left;
+    margin-right: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+   
+
+}
+
+.P1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    text-align: center;
+}
+.P2{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: medium;
+text-align: center;
+}
+.beyaz{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+    width: 300px;
+    height: 300px;
+    border-radius: 3px black;
+}
+.kırmızı{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+    width: 300px;
+    height: 300px;
+}
+.yeşil{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+    width: 300px;
+    height: 300px;
+}
+.mavi{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+    width: 300px;
+    height: 300px;
+}
+.sarı{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+    width: 300px;
+    height: 300px;
+}
+.siyah{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+    width: 300px;
+    height: 300px;
+}
+.B21{
+    font-size: xx-large;
+    background-color: black;
+    color: aliceblue;
+    font-weight: bolder;
+    text-align: left;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.B22{
+    font-size: xx-large;
+    background-color: black;
+    color: rgb(201, 7, 7);
+    font-weight: bolder;
+    text-align: left;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.B23{
+    font-size: xx-large;
+    background-color: black;
+    color: rgb(22, 107, 5);
+    font-weight: bolder;
+    text-align: left;
+     margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.B24{
+    font-size: xx-large;
+    background-color: black;
+    color: rgb(11, 102, 182);
+    font-weight: bolder;
+    text-align: left;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.B25{
+    font-size: xx-large;
+    background-color: black;
+    color: rgb(167, 170, 11);
+    font-weight: bolder;
+    text-align: left;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.B26{
+    font-size: xx-large;
+    background-color: aliceblue;
+    color: black;
+    font-weight:bolder;
+    text-align: left;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.D1{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 8px;
+    border-style: double;
+    background-color: bisque;
+}
+.mail{
+    background-color: rgb(245, 240, 235);
+}
+.sub1{
+    color: blue;
+    background-color: burlywood;
+}
+.pson{
+    color: blue;
+    font-size: medium;
+    text-align: left;
+    text-transform: uppercase;
+}
